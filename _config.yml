@@ -23,7 +23,7 @@ timezone: Europe/Istanbul
 
 title: Ömer Taha Öztop Kişisel Blog                          # the main title
 
-tagline: DevOps, Linux and Personal   # it will display as the sub-title
+tagline: DevOps, Linux ve Kişisel   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Kişisel, Linux ve DevOps ile alakalı öğrendiğim her şey.
